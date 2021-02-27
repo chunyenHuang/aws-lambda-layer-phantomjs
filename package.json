@@ -1,0 +1,22 @@
+{
+  "name": "aws-lambda-layer-phantomjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "zip file"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunyenHuang/aws-lambda-layer-phantomjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunyenHuang/aws-lambda-layer-phantomjs/issues"
+  },
+  "homepage": "https://github.com/chunyenHuang/aws-lambda-layer-phantomjs#readme"
+}
